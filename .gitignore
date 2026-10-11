@@ -1,0 +1,9 @@
+# Dataset (download separately, see README)
+data/images/
+
+# Generated SIFT descriptors (large, rebuilt by extract_features.py)
+features/descriptors/
+
+# Python
+__pycache__/
+*.pyc
